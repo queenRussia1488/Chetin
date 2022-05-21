@@ -10,14 +10,7 @@ header {
     background-color: #00CC00;
 }
 
-.kartinka {
-    height: 300px;
-    width: 50;
-}
-.wy {
-    height: 60px;
-    width: 300px;
-}
+
 footer {
     background-color:chartreuse;
     margin: 10px;
